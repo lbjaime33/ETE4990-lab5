@@ -1,6 +1,6 @@
 # put your code here 
 import random
-
+# very good work
 def dealer_roll():
     dice_one = random.randint(1,6)
     dice_two = random.randint(1,6)
